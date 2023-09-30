@@ -7,6 +7,8 @@ public class Add{
         System.out.println(n);
         System.out.println("One new text was added");
         System.out.println("Another new text added successfully");
+        System.out.println("third text added ");
+        
         
 
 
