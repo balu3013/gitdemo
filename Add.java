@@ -5,6 +5,7 @@ public class Add{
         System.out.println("Enter a number to print : ");
         int n = sc.nextInt();
         System.out.println(n);
+        System.out.println("One new text was added");
 
         
     }
